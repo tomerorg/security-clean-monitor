@@ -1,0 +1,13 @@
+{
+  "name": "security-clean-monitor",
+  "version": "1.0.0",
+  "description": "A Javascript security implementation using Node.js and Webpack and Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
